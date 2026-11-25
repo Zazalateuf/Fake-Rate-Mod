@@ -1,6 +1,8 @@
 #include "FakeRate.hpp"
 #include <Geode/binding/GJGameLevel.hpp>
 #include <Geode/loader/Mod.hpp>
+#include <Geode/loader/ModEvent.hpp>
+#include <algorithm>
 
 using namespace geode::prelude;
 
